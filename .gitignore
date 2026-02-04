@@ -1,0 +1,9 @@
+.DS_Store
+.chroma_data/
+.github/
+.venv/
+.streamlit/
+__pycache__/
+tmp/
+frames/
+*.pth
